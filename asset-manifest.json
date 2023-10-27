@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mseshureddy/newreactrepo/static/css/main.073c9b0a.css",
+    "main.js": "/mseshureddy/newreactrepo/static/js/main.d0b33038.js",
+    "static/js/787.eac7a734.chunk.js": "/mseshureddy/newreactrepo/static/js/787.eac7a734.chunk.js",
+    "index.html": "/mseshureddy/newreactrepo/index.html",
+    "main.073c9b0a.css.map": "/mseshureddy/newreactrepo/static/css/main.073c9b0a.css.map",
+    "main.d0b33038.js.map": "/mseshureddy/newreactrepo/static/js/main.d0b33038.js.map",
+    "787.eac7a734.chunk.js.map": "/mseshureddy/newreactrepo/static/js/787.eac7a734.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.d0b33038.js"
+  ]
+}
